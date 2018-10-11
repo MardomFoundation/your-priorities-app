@@ -1,4 +1,7 @@
 # This branch is working on yrpri platform for make it suitable for rtl to languages. 
+
+...
+
 # Your Priorities Version 7
 
 ![alt text](https://citizens.is/wp-content/uploads/2018/08/Capture-2.png "Your Priorities screenshot")
