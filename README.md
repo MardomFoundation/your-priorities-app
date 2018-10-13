@@ -1,6 +1,4 @@
-# This branch is working on yrpri platform for make it suitable for rtl to languages. 
-
-...
+# This branch is working on yrpri platform for make it suitable for rtl languages [Persian]. 
 
 # Your Priorities Version 7
 
