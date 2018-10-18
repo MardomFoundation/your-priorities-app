@@ -166,6 +166,7 @@
     } else {
       var tld = hostname.substring(hostname.lastIndexOf('.'));
       var localeByTld = {
+        '.fa': 'fa',
         '.fr': 'fr',
         '.hr': 'hr',
         '.hu': 'hu',
