@@ -1,4 +1,8 @@
 # This branch is working on yrpri platform for make it suitable for rtl languages [Persian]. 
+TODO:
+* Transifex translation [DONE]
+* Interface alignment (LTR->RTL) [WORKING]
+
 
 # Your Priorities Version 7
 
