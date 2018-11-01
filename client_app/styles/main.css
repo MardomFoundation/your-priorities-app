@@ -76,6 +76,7 @@ body.loading #splashCore {
 
 html, body {
   margin: 0;
+  direction: rtl;
 }
 
 img.emoji {
